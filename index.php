@@ -27,7 +27,7 @@ require 'common.php';
         <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
             <h1 class="mb-3">Welcome,</h1>
             <p class="lead">
-                To your <a href="https://pimylifeup.com">Pi My Life Up</a> RFID Attendance System Dashboard.
+                To your <a href="https://sspatel42@github.com">Seneca Students</a> RFID Attendance System.
             </p>
             <div class="row mx-n2">
                 <div class="col-md px-2">
